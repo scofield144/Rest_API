@@ -1,0 +1,25 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scofield144/Rest_API.git"
+  },
+  "author": "tales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scofield144/Rest_API/issues"
+  },
+  "homepage": "https://github.com/scofield144/Rest_API#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
